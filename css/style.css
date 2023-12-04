@@ -1,0 +1,9 @@
+/* Corpo da página*/
+body {
+  font-family: 'Poppins', sans-serif;
+}
+/* Titulo */
+h1 {
+  font-family: 'Archivo', sans-serif;
+  font-weight: bold;
+}
