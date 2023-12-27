@@ -238,5 +238,9 @@ line-height: 26px
 }
 
 footer .button:hover {
-  background: #08be5a;
+  background: #06a94f;
+}
+
+input:invalid {
+  border: 1px solid red;
 }
